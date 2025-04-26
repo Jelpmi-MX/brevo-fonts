@@ -1,7 +1,35 @@
 @font-face {
     font-family: 'Gilroy';
-    src: url('https://TU-USUARIO.github.io/TU-REPOSITORIO/NombreDeTuFuente.woff2') format('woff2');
-    font-weight: normal;
+    src: url('https://jelpmi-mx.github.io/brevo-fonts/Gilroy-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Gilroy';
+    src: url('https://jelpmi-mx.github.io/brevo-fonts/Gilroy-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Gilroy';
+    src: url('https://jelpmi-mx.github.io/brevo-fonts/Gilroy-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Gilroy';
+    src: url('https://jelpmi-mx.github.io/brevo-fonts/Gilroy-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Gilroy';
+    src: url('https://jelpmi-mx.github.io/brevo-fonts/Gilroy-Heavy.woff') format('woff');
+    font-weight: 800;
     font-style: normal;
   }
   
